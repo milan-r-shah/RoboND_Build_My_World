@@ -3644,7 +3644,7 @@
     <state world_name='default'>
       <sim_time>1124 167000000</sim_time>
       <real_time>22 881451605</real_time>
-      <wall_time>1558646039 224181567</wall_time>
+      <wall_time>1558646177 362580447</wall_time>
       <iterations>19664</iterations>
       <model name='MyBuilding'>
         <pose frame=''>-0.452354 -0.124982 0 0 -0 0</pose>
